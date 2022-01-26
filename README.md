@@ -103,10 +103,10 @@ Given a task to select a project, find data, and pick a model to train is a very
 
 ### Proper codebook execution order
 
-01 Data loading and cleaning
-02 EDA
-03 Preprocessing and feature engineering
-04 Modeling
+01 Data loading and cleaning <br>
+02 EDA <br>
+03 Preprocessing and feature engineering <br>
+04 Modeling <br>
 
 Actual code is located in the code subfolder of the project root directory
 
